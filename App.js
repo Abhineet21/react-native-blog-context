@@ -8,6 +8,8 @@ import { StatusBar } from 'expo-status-bar';
 
 const Stack = createStackNavigator();
 
+
+// The App() function that hanles navigation route and components
 export default function App() {
   return (
     <Provider>
