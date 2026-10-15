@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const AnotherScreen = () => {
   return (
     <View>
-      <Text>Another Screen</Text>
+      <Text>Another Screen</Text>  /// this text will be displayed on the anohter screen
     </View>
   );
 };
